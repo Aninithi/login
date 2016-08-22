@@ -1,0 +1,11 @@
+<html>
+</head> <h1>welcome login page</h1></head>
+<title> login</title>
+<body>
+<table>
+<tr><td>
+Username:<input type="text"></tr></td>
+<tr><td>password<input type="password"></td></tr>
+</table>
+</body>
+</html>
